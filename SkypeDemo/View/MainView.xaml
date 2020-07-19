@@ -8,9 +8,15 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         Title="Skupe" Height="450" Width="800">
     <Grid>
-        <TextBlock Text="Xin Chao"></TextBlock>
-        <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
             
+        </Grid>
+        <Grid Grid.Column="1">
+
         </Grid>
     </Grid>
 </Window>
