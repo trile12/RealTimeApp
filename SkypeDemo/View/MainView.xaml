@@ -9,5 +9,8 @@
         Title="Skupe" Height="450" Width="800">
     <Grid>
         <TextBlock Text="Xin Chao"></TextBlock>
+        <Grid>
+            
+        </Grid>
     </Grid>
 </Window>
